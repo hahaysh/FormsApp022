@@ -22316,10 +22316,7 @@
     "dependencies": {
       "Microsoft.BCL.Build": "1.0.21",
       "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2",
-      "Xamarin.Forms": {
-        "target": "Package",
-        "version": "[2.3.3.193, )"
-      }
+      "Xamarin.Forms": "2.3.3.193"
     },
     "frameworks": {
       "uap10.0": {}
